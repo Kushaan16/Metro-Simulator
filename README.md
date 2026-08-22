@@ -40,5 +40,5 @@ The project explores low-level algorithm design and simulation mechanics, includ
 1. Ensure `metro_simulator.py` and `metro.txt` are in the same directory.
 2. Run the main script via terminal:
 
-```bash
+bash
 python metro_simulator.py
